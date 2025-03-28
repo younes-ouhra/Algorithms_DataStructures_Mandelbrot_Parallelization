@@ -5,4 +5,4 @@ This project was built along with the Laboratory Algorithms and Data Structures 
 ## Conclusion
 The result of this project was that representing the Mandelbrot-Set with the parallelization helped to achieve few simulation-time in comparison with the sequential process.
 
-<a img src="https://github.com/younes-ouhra/algorithms-datastructures-mandelbrot-parallelization/blob/main/Result%20-Mandelbrot-Set.png"></a>
+<a img src="https://github.com/younes-ouhra/algorithms-datastructures-mandelbrot-parallelization/blob/main/Result%20-Mandelbrot-Set.png">
