@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mandelbrot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -g -Wall -Wextra -fopenmp -o CMakeFiles\\Mandelbrot.dir\\Mandelbrot.cpp.obj -c \"C:\\Users\\gyoun\\Desktop\\PAD (WiSe24-25)\\PAD_ws24 - Gitlab's Repository\\pad_w2024\\07_Mandelbrot\\Mandelbrot.cpp\"",
+  "file": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mandelbrot/Mandelbrot.cpp",
+  "output": "CMakeFiles/Mandelbrot.dir/Mandelbrot.cpp.obj"
+},
+{
+  "directory": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mandelbrot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -g -Wall -Wextra -fopenmp -o CMakeFiles\\Mandelbrot.dir\\WinAdapt.cpp.obj -c \"C:\\Users\\gyoun\\Desktop\\PAD (WiSe24-25)\\PAD_ws24 - Gitlab's Repository\\pad_w2024\\07_Mandelbrot\\WinAdapt.cpp\"",
+  "file": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mandelbrot/WinAdapt.cpp",
+  "output": "CMakeFiles/Mandelbrot.dir/WinAdapt.cpp.obj"
+},
+{
+  "directory": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mandelbrot/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -g -Wall -Wextra -fopenmp -o CMakeFiles\\Mandelbrot.dir\\main.cpp.obj -c \"C:\\Users\\gyoun\\Desktop\\PAD (WiSe24-25)\\PAD_ws24 - Gitlab's Repository\\pad_w2024\\07_Mandelbrot\\main.cpp\"",
+  "file": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mandelbrot/main.cpp",
+  "output": "CMakeFiles/Mandelbrot.dir/main.cpp.obj"
+}
+]
