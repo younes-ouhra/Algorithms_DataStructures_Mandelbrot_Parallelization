@@ -1,0 +1,1 @@
+# Algorithmen_und_Datenstrukturen_Mandelbrot_und_Parallelisierung
